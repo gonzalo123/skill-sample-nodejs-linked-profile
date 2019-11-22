@@ -1,6 +1,6 @@
 # Linked Profile (Account Linking) Sample Skill
 
-This sample custom skill demonstrates account linking for the purposes of utilizing a linked profile.  While any compliant oAuth identity provider could be used with account linking, Amazon Cognito will be used in this sample.
+This sample custom skill demonstrates account linking for the purposes of using a linked profile.  While any compliant oAuth identity provider could be used with account linking, Amazon Cognito will be used in this sample.
 
 These instructions will cover how to setup a user account and oAuth service using Amazon Cognito User Pools, coupled with an example skill (written using the Alexa Skills Kit SDJ for Node.js) that links to the Cognito OAuth service and provides personalized responses.
 
